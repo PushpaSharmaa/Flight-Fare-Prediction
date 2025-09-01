@@ -19,7 +19,7 @@ This project focuses on predicting flight ticket prices based on various travel 
 	•	Language: Python
 	•	Libraries:
 	•	Pandas, NumPy (Data Handling)
-	•	Matplotlib, Seaborn (Visualization)
+	•	Matplotlib, Seaborn, Plotly (Visualization)
 	•	Scikit-learn (Machine Learning Models)
 	•	XGBoost / RandomForest / Linear Regression
 	•	Tool: Jupyter Notebook
