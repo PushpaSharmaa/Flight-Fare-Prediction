@@ -1,5 +1,6 @@
 Flight Fare Prediction
 
+
 📌 Project Overview
 
 This project focuses on predicting flight ticket prices based on various travel details such as airline, source, destination, total stops, and departure/arrival times. The aim is to build a machine learning model that helps travelers and businesses estimate flight prices more accurately.
